@@ -5,10 +5,11 @@
 #****Choose**** :
 
 # Get the user object for the user based on mail
-#$user = Get-AzADUser -UserPrincipalName 'adm-debo@rc-n.no'
+#$user = Get-AzADUser -UserPrincipalName 'adm@abc.com'
 
 # Get the user object for the user based in display name
-#$user = Get-AzADUser -SearchString "displayName eq 'Denis Bogunic'"
+#$user = Get-AzADUser -SearchString "displayName eq 'John Smith"
+
 
 
 # Initialize an array to store the results
