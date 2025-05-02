@@ -3,6 +3,8 @@ Just a bunch of scripts Entra
 
 (Work in progress)
 
+Entra Folder
+
 Repository Overview
 1. Entra App Registrations with Expiring Client Secrets and Certificates
 Location: entra/Entra App Registrations with Expiring Client Secrets and Certificates
